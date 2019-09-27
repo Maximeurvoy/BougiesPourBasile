@@ -1,0 +1,19 @@
+.container{
+    width: 100vh;
+    height: ;
+    margin: auto;
+    text-align: center;
+}
+p{
+    font-size: 3em;
+}
+h1{
+    font-size: 4em;
+}
+img{
+    width: 25em;
+    height: 25em;
+}
+#bird{
+    font-size: 3em;
+}
